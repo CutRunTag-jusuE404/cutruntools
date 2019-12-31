@@ -1,3 +1,5 @@
+https://bitbucket.org/qzhudfci/cutruntools/src/master/
+
 # CUT&RUNTools
 
 This package contains the pipeline for conducting a CUT&RUN analysis.
